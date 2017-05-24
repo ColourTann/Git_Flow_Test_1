@@ -1,2 +1,4 @@
 Trees
 Mushrooms
+Grass
+Leaves
